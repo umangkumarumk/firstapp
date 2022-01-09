@@ -8,7 +8,7 @@ class homepage extends StatelessWidget {
 
     return Scaffold(
       appBar: AppBar(
-        title: Text("first app"),
+        title: Text("Catalog Apk"),
       ),
       body: Center(
         child: Container(
