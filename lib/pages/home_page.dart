@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 class homepage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
@@ -13,7 +12,7 @@ class homepage extends StatelessWidget {
       body: Center(
         child: Container(
           child: Text(
-              "Hi this is $name Learining Flutter course of $days days!!!!"),
+              "Hi this is $name Learining Flutter course !!!!"),
         ),
       ),
       drawer: Drawer(),
